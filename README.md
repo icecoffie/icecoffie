@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/matrixsync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matrixsync" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/malikashkl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/malikashkl/" height="30" width="40" /></a>
-<a href="https://instagram.com/@msync.matrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@msync.matrix" height="30" width="40" /></a>
+<a href="https://instagram.com/msync.matrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@msync.matrix" height="30" width="40" /></a>
 <a href="https://dribbble.com/msync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="msync" height="30" width="40" /></a>
 <a href="https://medium.com/@malsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malsky" height="30" width="40" /></a>
 </p>
