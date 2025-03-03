@@ -1,15 +1,13 @@
 <h1 align="center">Hola 👋, I'm Malsky</h1>
-<h3 align="center">I am a Fullstack Frontend Developer, specializing in UI/UX design and frontend development. Passionate about crafting intuitive and visually appealing interfaces while implementing efficient frontend solutions.</h3>
+<h3 align="center">I'm Specializing in UI/UX design and frontend development. Passionate about crafting intuitive and visually appealing interfaces while implementing efficient frontend solutions.</h3>
 
 - 🚀 I’m currently working as **Web Designer and Web Developer**
 
-- 🌱 I’m Experience Level: 3+ years.
+- 🌱 My Experience : 3+ years.
 
 - 💻 All of my projects are available at [malikashkl.netlify.app](malikashkl.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@malsky](https://medium.com/@malsky)
-
-- 💬 Ask me about **Anything about Frontend.**
 
 - 📫 How to reach me **aboutmalsky@gmail.com**
 
