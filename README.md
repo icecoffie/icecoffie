@@ -16,7 +16,7 @@
 <summary class="custom-cursor-on-hover">About me</summary>
 <div align="left">
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/**</span></span>
-<span class="line"><span style="color:#6A737D"> * 🧊 <a href="mailto:aboutmalsky@gmail.com">About Me</a>.</span></span>
+<span class="line"><span style="color:#6A737D"> * 🧊 <a href="https://malikashkl.netlify.app">About Me</a>.</span></span>
 <span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@constructor 🚀</span></span>
 <span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#87CEFA"> {string}</span><span style="color:#FF69B4"> city</span><span style="color:#6A737D"> - Bekasi, Indonesia.</span></span>
 <span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#87CEFA"> {string}</span><span style="color:#FF69B4"> jobTitle</span><span style="color:#6A737D"> - Web Designer and Web Developer</span></span>
