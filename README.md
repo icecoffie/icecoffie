@@ -99,7 +99,6 @@
 <a target="_blank" href="https://www.instagram.com/msync.matrix" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=%23F35369" alt="instagram"></a>
 <a target="_blank" href="https://www.dribbble.com/msync" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&amp;logo=dribbble&amp;logoColor=white&amp;color=%23ea64d9" alt="dribbble"></a>
 <a target="_blank" href="undefined@malsky" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;color=black" alt="medium"></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=icecoffie&amp;show_icons=true&amp;locale=en" alt="icecoffie"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="icecoffie"></p>
 </div><p></p></details></div></details></details></div>
 <div align="center">
