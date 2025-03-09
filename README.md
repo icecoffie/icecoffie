@@ -99,7 +99,19 @@
 <a target="_blank" href="https://www.instagram.com/msync.matrix" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=%23F35369" alt="instagram"></a>
 <a target="_blank" href="https://www.dribbble.com/msync" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&amp;logo=dribbble&amp;logoColor=white&amp;color=%23ea64d9" alt="dribbble"></a>
 <a target="_blank" href="undefined@malsky" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;color=black" alt="medium"></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="icecoffie"></p>
+<h2 id="-streak-stats">🔥 Streak Stats</h2>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icecoffie&amp;theme=algolia" alt="icecoffie"></p>
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+ <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icecoffie&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
+<br>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&amp;langs_count=10&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="icecoffie" height="192px">
+  <br>
+  </p>
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 </div><p></p></details></div></details></details></div>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></div>
