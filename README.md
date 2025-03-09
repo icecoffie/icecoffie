@@ -98,8 +98,19 @@
 <a target="_blank" href="https://www.linkedin.com/in/malikashkl" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=%230a77b6" alt="linkedin"></a>
 <a target="_blank" href="https://www.instagram.com/msync.matrix" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=%23F35369" alt="instagram"></a>
 <a target="_blank" href="https://www.dribbble.com/msync" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&amp;logo=dribbble&amp;logoColor=white&amp;color=%23ea64d9" alt="dribbble"></a>
-<a target="_blank" href="undefined@malsky" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;color=black" alt="medium"></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="icecoffie"></p>
-</div><p></p></details></div></details></details></div>
+<a target="_blank" href="undefined@malsky" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;color=black" alt="medium"></a></p><h2 id="-streak-stats">🔥 Streak Stats</h2>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadeepZilong&amp;theme=algolia" alt="SubhadeepZilong"></p>
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+ <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhadeepZilong&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
+<br>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadeepZilong&amp;langs_count=10&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="SubhadeepZilong" height="192px">
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></div>
