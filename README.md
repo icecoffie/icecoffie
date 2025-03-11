@@ -100,10 +100,8 @@
 <a target="_blank" href="https://www.dribbble.com/msync" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&amp;logo=dribbble&amp;logoColor=white&amp;color=%23ea64d9" alt="dribbble"></a>
 <a target="_blank" href="undefined@malsky" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;color=black" alt="medium"></a></p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<h2 id="-streak-stats">🔥 Streak Stats</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icecoffie&amp;theme=algolia" alt="icecoffie"></p>
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h2 id="-streak-stats">💻 GitHub Profile Stats</h2>
+<th><img src="https://github-readme-streak-stats.herokuapp.com/?user=icecoffie&amp;theme=tokyonight" alt="Malsky's GitHub Streak"></th>
   <br>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=icecoffie&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
