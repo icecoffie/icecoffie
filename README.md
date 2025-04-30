@@ -57,7 +57,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"> 
       <img width="30px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  	<img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="50" height="50" alt="Three.js" width="30" />
+  	<img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="50" height="50" alt="Three.js" width="30px" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
     </kbd>
 <br>
