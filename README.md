@@ -56,6 +56,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"> 
       <img width="30px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"> 
+      <img src="https://skillicons.dev/icons?i=tailwind" width="30px"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   	<img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="30px" alt="Three.js" width="30px" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
