@@ -98,9 +98,9 @@
                 </tr>
             </tbody></table>
 <div align="center">
-<p><a target="_blank" href="https://twitter.com/matrixsync" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;color=%230f1419" alt="twitter"></a>
+<p><a target="_blank" href="https://twitter.com/msyncq" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;color=%230f1419" alt="twitter"></a>
 <a target="_blank" href="https://www.linkedin.com/in/malikashkl" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=%230a77b6" alt="linkedin"></a>
-<a target="_blank" href="https://www.instagram.com/msync.matrix" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=%23F35369" alt="instagram"></a>
+<a target="_blank" href="https://www.instagram.com/msync.tech" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=%23F35369" alt="instagram"></a>
 <a target="_blank" href="https://dribbble.com/msync" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&amp;logo=dribbble&amp;logoColor=white&amp;color=%23ea64d9" alt="dribbble"></a>
 <a target="_blank" href="https://medium.com/@malsky" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;color=black" alt="medium"></a></p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
