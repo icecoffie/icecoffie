@@ -1,6 +1,13 @@
 <div align="center">
-<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
-<details open="">
+<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p><div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<details ="">
 <summary class="custom-cursor-on-hover">Open profile</summary>
 <p><br></p>
 <div>
