@@ -4,12 +4,6 @@
 <summary class="custom-cursor-on-hover">Open profile</summary>
 <p><br></p>
 <div>
-	<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
   <div align="center">
 <img height="180" width="160" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://github.com/user-attachments/assets/c3653b68-b36c-456e-8dd1-5e0a2efa1251">
