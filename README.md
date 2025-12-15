@@ -71,6 +71,7 @@
   	<img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="30px" alt="Three.js" width="30px" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
     </kbd>
 <br>
