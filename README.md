@@ -2,23 +2,13 @@
 
 <img src="./math.jpg" alt="header" width="100%">
 
-```
-        .  *   .     ✦     .   *   .     ⋆
-     *     .   ✦    🌑    .   *    .   ✦
-  .    ✦    *    .   ⋆   .     ✦    .   *
-        *   .    ⋆     .    *    .    ⋆
-```
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=87CEFA&center=true&vCenter=true&width=500&lines=Hola!+I'm+Malsky;Designer+And+Engineer;" alt="typing svg"></a>
 
 </div>
 
 <br>
 
-<details open>
-<summary><b>🚀 About Me</b></summary>
-
-<br>
+<h2 align="center">🚀 About Me</h2>
 
 <table>
 <tr>
@@ -26,18 +16,29 @@
 
 ```js
 /**
- * 🧊 About Me — https://malikashkl.netlify.app
+ * about-me.astro
  * @constructor 🚀
- * @param {string} city - Bekasi, Indonesia.
- * @param {string} jobTitle - UI/UX Designer & Frontend Engineer
- * @param {string} specialization - Crafting intuitive, visually
- *        appealing interfaces while implementing efficient
- *        frontend solutions.
- * @param {string} approachable - Yes, to collaborate on exciting
- *        projects, don't hesitate to reach out.
- * @throws {Punch} To any and all bugs.
- * @returns {Object} Malsky 👩🏻‍💻
  */
+class AboutMe {
+  constructor() {
+    this.city = "Bekasi, Indonesia";
+    this.jobTitle = "UI/UX Designer & Frontend Engineer";
+    this.specialization =
+      "Crafting intuitive, visually appealing interfaces " +
+      "while implementing efficient frontend solutions.";
+    this.approachable = true; // don't hesitate to reach out
+  }
+
+  onBug(error) {
+    throw new Punch(error); // 🥊 to any and all bugs
+  }
+
+  get whoAmI() {
+    return "Malsky 👩🏻‍💻";
+  }
+}
+
+export default new AboutMe();
 ```
 
 </td>
@@ -49,48 +50,42 @@
 </tr>
 </table>
 
-</details>
+<hr>
 
-<div align="center">
+<h2 align="center">🌌 Astronomy Functions</h2>
 
-`✦` `.` `⋆` `.` `✦` `.` `⋆` `.` `✦` `.` `⋆` `.` `✦`
+```js
+// astronomy.js — a few equations that keep me up at night
 
-</div>
+// Kepler's Third Law — orbital period from semi-major axis (m)
+const orbitalPeriod = (a) => {
+  const G = 6.674e-11;
+  const M_sun = 1.989e30;
+  return 2 * Math.PI * Math.sqrt(a ** 3 / (G * M_sun));
+};
 
-<details open>
-<summary><b>⚛️ System Diagnostics</b></summary>
+// Escape velocity needed to leave a celestial body
+const escapeVelocity = (mass, radius) => {
+  const G = 6.674e-11;
+  return Math.sqrt((2 * G * mass) / radius);
+};
 
-<br>
+// Stefan–Boltzmann Law — luminosity of a star
+const starLuminosity = (radius, temperature) => {
+  const sigma = 5.670e-8;
+  return 4 * Math.PI * radius ** 2 * sigma * temperature ** 4;
+};
 
+// Drake Equation — estimating civilizations in the galaxy
+const drakeEquation = ({ Rstar, fp, ne, fl, fi, fc, L }) =>
+  Rstar * fp * ne * fl * fi * fc * L;
+
+export { orbitalPeriod, escapeVelocity, starLuminosity, drakeEquation };
 ```
-================================================================
- SYS//DEV-CORE v3.1                         STATUS: ONLINE
- BOOT SEQUENCE...............................ok
-----------------------------------------------------------------
- E = mc^2 .......................... MASS-ENERGY EQUIVALENCE
- ΔxΔp ≥ ħ/2 ......................... HEISENBERG UNCERTAINTY
- iħ ∂Ψ/∂t = ĤΨ ....................... SCHRÖDINGER EQUATION
- S = k_B ln(Ω) ....................... BOLTZMANN ENTROPY
- F = G(m1 m2)/r^2 .................... NEWTONIAN GRAVITY
-----------------------------------------------------------------
- CORE TEMP ..................... 320.4 K          STABLE
- NEUTRON FLUX ................... 1.2e13 n/cm²s    NOMINAL
- CODE COMPILE STATUS ............ 100%             PASS
-================================================================
-```
 
-</details>
+<hr>
 
-<div align="center">
-
-`✦` `.` `⋆` `.` `✦` `.` `⋆` `.` `✦` `.` `⋆` `.` `✦`
-
-</div>
-
-<details open>
-<summary><b>🤝 Connect</b></summary>
-
-<br>
+<h2 align="center">🤝 Connect</h2>
 
 <div align="center">
 
@@ -103,22 +98,16 @@
 
 </div>
 
-</details>
+<hr>
 
-<details open>
-<summary><b>💻 Tools & Stack</b></summary>
-
-<br>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
 
-<b>Tools</b><br><br>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 <img width="30" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
-<br><br><b>Languages</b><br><br>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -128,8 +117,7 @@
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-
-<br><br><b>Front-end</b><br><br>
+<br><br>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img width="30" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg">
@@ -140,14 +128,11 @@
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
-
-<br><br><b>Back-end</b><br><br>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
-
-<br><br><b>Database</b><br><br>
+<br><br>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
@@ -156,51 +141,14 @@
 
 </div>
 
-</details>
+<hr>
 
-<div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
 
-`✦` `.` `⋆` `.` `✦` `.` `⋆` `.` `✦` `.` `⋆` `.` `✦`
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&show_icons=true&locale=en&layout=compact" alt="icecoffie" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icecoffie&show_icons=true&locale=en" alt="icecoffie" /></p>
 
-<details open>
-<summary><b>📊 GitHub Stats</b></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=icecoffie&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="192px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecoffie&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" height="192px">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=icecoffie&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF">
-
-</div>
-
-</details>
-
-<details open>
-<summary><b>📈 Activity Graph</b></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=icecoffie&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true" width="100%">
-
-</div>
-
-</details>
-
-<div align="center">
-
-```
-     .   ⋆    .    ✦    .    ⋆    .    ✦    .
-   ✦   .    *   .    ⋆    .    *   .    ⋆   .
-     .   ⋆    .    ✦    .    ⋆    .    ✦    .
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icecoffie&theme=dark" alt="icecoffie" /></p>
 
 </div>
