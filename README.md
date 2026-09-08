@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header github.png" alt="Banner" width="100%">
+  <img src="./header-gh.mp4" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋🏻, Imma Malika</h1>
