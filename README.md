@@ -27,31 +27,51 @@ I lead projects end to end — mostly because I do all the work myself. From dre
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://twitter.com/msyncq">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/malikashkl">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/msync.tech">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://dribbble.com/msync">
-    <img src="https://skillicons.dev/icons?i=dribbble" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:aboutmalsky@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
+<a href="https://twitter.com/msyncq"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/malikashkl"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"></a>
+<a href="https://www.instagram.com/msync.tech"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"></a>
+<a href="https://dribbble.com/msync"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble"></a>
+<a href="https://medium.com/@malsky"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium"></a>
+<a href="mailto:aboutmalsky@gmail.com"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,astro,html,css,tailwind,nodejs,express,firebase,figma,vscode,git,github" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+<img width="30" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+<img width="30" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg">
+<img width="30" src="https://skillicons.dev/icons?i=tailwind">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img width="30" src="https://threejs.org/files/favicon.ico">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
+<br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -72,6 +92,16 @@ I lead projects end to end — mostly because I do all the work myself. From dre
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=icecoffie&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
+
+<h2 align="center">⌘ Commit Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
+  </p>
+</picture>
 
 <h2 align="center">⌘ Philosophy</h2>
 
