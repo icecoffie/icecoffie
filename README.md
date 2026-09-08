@@ -61,7 +61,7 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solid-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solid/solid-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
