@@ -7,7 +7,7 @@
 <h3 align="center">Frontend Engineer & UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Blending+Chaotic+Code;%3E+Pixel-Perfect+Designs;%3E+Executive+Decisions;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Blending+Chaotic+Code;%3E+Pixel+Perfect+Designs;%3E+Executive+Decisions;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,13 @@ Blending chaotic code, pixel perfect designs, and executive decisions into real 
 
 <img align="right" src="./astro.png" width="280" alt="Astro Illustration"/>
 
-As a frontend engineer, UI/UX designer, and owner, I blend chaotic code, pixel perfect designs, and executive decisions into real products.
+So here's the coffee ☕ I'm a frontend engineer, UI/UX designer, and yes, also the owner. Basically I wear every hat in the building, mostly because there's nobody else around to wear them (it's fine, I'm fine).
 
-I lead projects end to end mostly because I do all the work myself. From dreaming up concepts to fixing bugs I accidentally created, I stay aggressively hands on, turning wild ideas into reality with a lot of love, coffee, and water.
+I blend chaotic code, pixel perfect designs, and executive decisions into real, actual, shipped products no cap. I lead projects end to end, which is just a fancy way of saying I do all the work myself while pretending it was a whole team effort.
+
+My days basically go: dream up a concept → build it → break it → fix the bug I definitely just created → repeat until it works → act surprised when it works.
+
+Aggressively hands on, mildly caffeinated, permanently turning wild ideas into reality powered by an unreasonable amount of love, coffee, and water (in that exact order, don't @ me).
 
 <br clear="right"/>
 
@@ -61,7 +65,9 @@ I lead projects end to end mostly because I do all the work myself. From dreamin
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/solid-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/svelte-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
@@ -102,5 +108,7 @@ I lead projects end to end mostly because I do all the work myself. From dreamin
 <h2 align="center">⌘ Philosophy</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+  <em>"Wenn man richtig will, schafft man das."</em>
+  <br>
+  <sub>— Malsky</sub>
 </p>
