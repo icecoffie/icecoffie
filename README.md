@@ -10,9 +10,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" src="./astro.png" alt="astro" width="280">
 
 ```js
 /**
@@ -21,34 +19,32 @@
  */
 class AboutMe {
   constructor() {
-    this.city = "Bekasi, Indonesia";
-    this.jobTitle = "UI/UX Designer & Frontend Engineer";
-    this.specialization =
-      "Crafting intuitive, visually appealing interfaces " +
-      "while implementing efficient frontend solutions.";
-    this.approachable = true; // don't hesitate to reach out
+    this.roles = ["Frontend Engineer", "UI/UX Designer", "Owner"];
+    this.style = "blends chaotic code, pixel-perfect designs, " +
+                 "and executive decisions into real products";
+    this.workflow = "leads projects end to end — mostly because " +
+                     "she does all the work herself";
+    this.range = "from dreaming up concepts to fixing bugs " +
+                 "she accidentally created";
+    this.energy = "aggressively hands-on";
+    this.fuel = ["love", "coffee", "water"];
+  }
+
+  turnIdeaIntoReality(idea) {
+    return idea
+      .withALotOf(this.fuel)
+      .and(this.energy); // Malika 👩🏻‍💻
   }
 
   onBug(error) {
     throw new Punch(error); // 🥊 to any and all bugs
-  }
-
-  get whoAmI() {
-    return "Malsky 👩🏻‍💻";
   }
 }
 
 export default new AboutMe();
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="./astro.png" alt="astro" width="90%">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <hr>
 
@@ -145,10 +141,10 @@ export { orbitalPeriod, escapeVelocity, starLuminosity, drakeEquation };
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&show_icons=true&locale=en&layout=compact" alt="icecoffie" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&show_icons=true&locale=en&layout=compact&theme=dark" alt="icecoffie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icecoffie&show_icons=true&locale=en" alt="icecoffie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icecoffie&show_icons=true&locale=en&theme=dark" alt="icecoffie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icecoffie&theme=dark" alt="icecoffie" /></p>
 
-</div>
+<br clear="both">
