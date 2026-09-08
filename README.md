@@ -57,6 +57,7 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
 <img width="30" src="https://skillicons.dev/icons?i=tailwind">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img width="30" src="https://threejs.org/files/favicon.ico">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
@@ -107,3 +108,8 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
   <br>
   <sub>— Malsky</sub>
 </p>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+</div>
