@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Blending+Chaotic+Code;%3E+Pixel+Perfect+Designs;%3E+Executive+Decisions;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
-<p align="center">
-Blending chaotic code, pixel perfect designs, and executive decisions into real products.
-</p>
-
 <h2 align="center">🚀 About Me</h2>
 
 <img align="right" src="./astro.png" width="280" alt="Astro Illustration"/>
