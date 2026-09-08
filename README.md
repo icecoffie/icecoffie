@@ -57,7 +57,6 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
 <img width="30" src="https://skillicons.dev/icons?i=tailwind">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img width="30" src="https://threejs.org/files/favicon.ico">
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
