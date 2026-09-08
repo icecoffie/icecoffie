@@ -2,7 +2,7 @@
   <img src="./header github.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Imma Malika</h1>
+<h1 align="center">Hi 👋🏻, Imma Malika</h1>
 
 <h3 align="center">Frontend Engineer & UI/UX Designer</h3>
 
@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-Blending chaotic code, pixel-perfect designs, and executive decisions into real products.
+Blending chaotic code, pixel perfect designs, and executive decisions into real products.
 </p>
 
 <h2 align="center">🚀 About Me</h2>
 
 <img align="right" src="./astro.png" width="280" alt="Astro Illustration"/>
 
-As a frontend engineer, UI/UX designer, and owner, I blend chaotic code, pixel-perfect designs, and executive decisions into real products.
+As a frontend engineer, UI/UX designer, and owner, I blend chaotic code, pixel perfect designs, and executive decisions into real products.
 
-I lead projects end to end — mostly because I do all the work myself. From dreaming up concepts to fixing bugs I accidentally created, I stay aggressively hands-on, turning wild ideas into reality with a lot of love, coffee, and water.
+I lead projects end to end mostly because I do all the work myself. From dreaming up concepts to fixing bugs I accidentally created, I stay aggressively hands on, turning wild ideas into reality with a lot of love, coffee, and water.
 
 <br clear="right"/>
 
@@ -78,12 +78,12 @@ I lead projects end to end — mostly because I do all the work myself. From dre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=icecoffie&show_icons=true&locale=en&theme=dark" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&show_icons=true&locale=en&layout=compact&theme=dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=icecoffie&show_icons=true&locale=en&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&icon_color=3B82F6&border_color=3B82F6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&show_icons=true&locale=en&layout=compact&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&border_color=3B82F6" height="180"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=icecoffie&theme=dark&hide_border=false&border_radius=5" height="150"/>
+<img src="https://streak-stats.demolab.com?user=icecoffie&background=1F242C&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border_radius=5" height="150"/>
 
 </div>
 
@@ -95,13 +95,9 @@ I lead projects end to end — mostly because I do all the work myself. From dre
 
 <h2 align="center">⌘ Commit Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-  </p>
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
+</p>
 
 <h2 align="center">⌘ Philosophy</h2>
 
