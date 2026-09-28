@@ -28,7 +28,7 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
 
 <p align="center">
 <a href="https://www.linkedin.com/in/malikashkl"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"></a>
-<a href="https://www.instagram.com/msync.tech"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"></a>
+<a href="https://www.instagram.com/malikashkl"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"></a>
 <a href="https://dribbble.com/msync"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble"></a>
 <a href="https://medium.com/@malsky"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium"></a>
 <a href="mailto:malika@matrixsync.app"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
