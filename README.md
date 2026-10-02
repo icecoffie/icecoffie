@@ -100,7 +100,7 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
   <img src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
 </p>
 
-<h2 align="center">⌘ Philosophy</h2>
+<h2 align="center">⌘ Quote</h2>
 
 <p align="center">
   <em>"Wenn man richtig will, schafft man das."</em>
