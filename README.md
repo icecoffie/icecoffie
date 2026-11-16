@@ -75,23 +75,10 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=icecoffie&show_icons=true&locale=en&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&icon_color=3B82F6&border_color=3B82F6" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=icecoffie&show_icons=true&locale=en&layout=compact&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&border_color=3B82F6" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=icecoffie&background=1F242C&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border_radius=5" height="150"/>
-
-</div>
-
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📊 Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icecoffie&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph with language breakdown" width="100%"/>
 </p>
 
 <h2 align="center">⌘ Commit Activity</h2>
